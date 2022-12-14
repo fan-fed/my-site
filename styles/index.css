@@ -6,6 +6,12 @@ body {
   background-attachment: fixed;
   background-size: cover;
   overflow-x: hidden;
+  font-family: 'Poppins';
+}
+
+h3 {
+  font-family: 'Poppins';
+
 }
 body .portfolio .bostami {
   background-image: url(../images/bgtwo.jpg);
