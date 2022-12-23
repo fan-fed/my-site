@@ -101,4 +101,9 @@ body .modal .modal-content .modal-body .modal__items img {
 
 a {
   color: white;
+  text-decoration:none;
+}
+
+h3 {
+  font-size: 20px;
 }
